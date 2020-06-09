@@ -1,0 +1,38 @@
+[
+  {
+    "id": "372e8af8-292f-4a50-b1f2-5dc85c553193",
+    "data": [
+      {
+        "text": "tell me another riddle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6f0be04-31cf-4490-b806-1e266564c72f",
+    "data": [
+      {
+        "text": "tell me one more?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbfab73a-0337-444a-bb96-5849371078c1",
+    "data": [
+      {
+        "text": "tell me a riddle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

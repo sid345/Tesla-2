@@ -1,0 +1,131 @@
+[
+  {
+    "id": "990cbdc5-edc2-4322-a5ec-6b997f9592b4",
+    "data": [
+      {
+        "text": "hey how is ",
+        "userDefined": false
+      },
+      {
+        "text": "london",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " weather looks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18db0e14-78df-41e0-a3df-9d8b60e3befd",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "hyderabad",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff74ad76-643a-4f77-b571-d04e2bc6cca2",
+    "data": [
+      {
+        "text": "forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "Hyderabad",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02359574-fa79-41dd-a8db-85e345cc87d9",
+    "data": [
+      {
+        "text": "Tell me the weather of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d00b47ce-0166-4700-9b5b-874278dfca65",
+    "data": [
+      {
+        "text": "What is the weather of ",
+        "userDefined": false
+      },
+      {
+        "text": "Hyderabad",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d01099e-99e8-4c4e-9169-0f1e1ea81632",
+    "data": [
+      {
+        "text": "what is the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

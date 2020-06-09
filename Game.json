@@ -1,0 +1,9 @@
+{
+  "id": "025072f8-379e-4adb-9199-a439b6588230",
+  "name": "Game",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

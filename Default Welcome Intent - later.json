@@ -1,0 +1,36 @@
+{
+  "id": "4fbdeea1-5bb1-4897-9db8-42f3c863d274",
+  "parentId": "e4816862-dae5-429f-9fe6-61904fd9920e",
+  "rootParentId": "e4816862-dae5-429f-9fe6-61904fd9920e",
+  "name": "Default Welcome Intent - later",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "ok no problem see next time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

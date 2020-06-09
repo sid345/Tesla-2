@@ -1,0 +1,52 @@
+{
+  "id": "8a2d8e7b-bf50-4191-a8ca-cbe61e98c354",
+  "name": "ROUTINES",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6bc291a9-b939-4c91-890e-a2cdc1141436",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "ok setting your alarm to 12:00 am",
+            "ok setting your alarm to 11:00 am",
+            "ok setting your alarm to 1:00 am",
+            "ok setting your alarm to 2:00 am",
+            "ok setting your alarm to 3:00 am",
+            "ok setting your alarm to 4:00 am",
+            "ok setting your alarm to 5:00 am"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

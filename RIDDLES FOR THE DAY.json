@@ -1,0 +1,34 @@
+{
+  "id": "ab948ddc-e252-48c6-bb8f-b4c119fa47a0",
+  "name": "RIDDLES FOR THE DAY",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I speak without a mouth and hear without ears. I have no body, but come alive with wind. What am i? the answer is an echo.",
+            "ok another riddle i have hands but no body parts. who am i?  answer a clock."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "21b7fedc-5ae6-4c97-9677-57689d39b826",
+  "parentId": "da08cb6f-aa50-40d5-8379-ca4d643bd35f",
+  "rootParentId": "da08cb6f-aa50-40d5-8379-ca4d643bd35f",
+  "name": "WHAT IS DIALOGFLOW? - yes",
+  "auto": true,
+  "contexts": [
+    "WHATISDIALOGFLOW-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WHATISDIALOGFLOW.WHATISDIALOGFLOW-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "ok Dialogflow is a Google-owned developer of human–computer interaction technologies based on natural language conversations. The company is best known for creating the Assistant, a virtual buddy for Android, iOS, and Windows Phone smartphones that performs tasks and answers users\u0027 question in a natural language."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

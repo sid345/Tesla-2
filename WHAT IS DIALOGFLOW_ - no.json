@@ -1,0 +1,36 @@
+{
+  "id": "1b5175a1-0d0d-4075-a1e7-a63730b6cca8",
+  "parentId": "da08cb6f-aa50-40d5-8379-ca4d643bd35f",
+  "rootParentId": "da08cb6f-aa50-40d5-8379-ca4d643bd35f",
+  "name": "WHAT IS DIALOGFLOW? - no",
+  "auto": true,
+  "contexts": [
+    "WHATISDIALOGFLOW-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WHATISDIALOGFLOW.WHATISDIALOGFLOW-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "ok no problem come back soon if you want to know about it or check the link i just sended to you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

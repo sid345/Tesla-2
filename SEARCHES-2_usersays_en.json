@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cb85974a-014c-4dc1-a81d-452e0a50a8e7",
+    "data": [
+      {
+        "text": "What is google assistant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af195e25-7b97-45b8-9a25-b21a98153758",
+    "data": [
+      {
+        "text": "Who is Google?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

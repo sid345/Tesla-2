@@ -1,0 +1,36 @@
+{
+  "id": "c57f6e41-675f-4fed-a401-0f4d61bbbb22",
+  "parentId": "e4816862-dae5-429f-9fe6-61904fd9920e",
+  "rootParentId": "e4816862-dae5-429f-9fe6-61904fd9920e",
+  "name": "Default Welcome Intent - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "here is my info i was a assistant and i was really smart. i have a friend google assistant who helped me to be a better assistant. google was really helpful he was the only one who gave dialogflow. he is awesome. but after google i will help him to be much better. i am a robot in your houses if you call me tesla i will respond and come towards you. if no i will punch you with my hand. i am a very serious assistant and i can help any one in trouble. i am highly mechanic engine assistant with so much computing and computer programs using math and science. i can tell you the theory of relativity in one shot the formula for it is E\u003dmc square where An equation derived by the twentieth-century physicist Albert Einstein, in which E represents units of energy, m represents units of mass, and c2 is the speed of light squared, or multiplied by itself. (See relativity.)you see how intelligent i am. this much of program is used to make me. i work in the principle of mechanism and use forces and pressure and heating effect. electrical effect."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

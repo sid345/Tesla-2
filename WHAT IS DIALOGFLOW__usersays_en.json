@@ -1,0 +1,38 @@
+[
+  {
+    "id": "77b147ac-1fd4-4ae8-abcc-d85f17b6f45d",
+    "data": [
+      {
+        "text": "search it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05cc7b24-4ee0-4a77-a81e-e68e1fb784c0",
+    "data": [
+      {
+        "text": "can you  search what is dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0655603-04f6-4a1d-8da9-14fc9b585f5f",
+    "data": [
+      {
+        "text": "what is dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

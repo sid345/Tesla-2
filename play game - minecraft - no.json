@@ -1,0 +1,52 @@
+{
+  "id": "77ed6f37-4077-41ab-abf8-43616d9dc056",
+  "parentId": "da0466a2-0a7e-41af-9a11-b493652506d8",
+  "rootParentId": "da0466a2-0a7e-41af-9a11-b493652506d8",
+  "name": "play game - minecraft - no",
+  "auto": true,
+  "contexts": [
+    "playgame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "playgame.playgame-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30cc853d-0b96-4f45-9956-93775e9dc9b5",
+          "required": false,
+          "dataType": "@Game",
+          "name": "Game",
+          "value": "$Game",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "ok play when you are free",
+            "ok cancelling minecraft"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

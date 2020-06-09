@@ -1,0 +1,49 @@
+{
+  "id": "00a79ada-9520-4000-8516-db32dbe6f15c",
+  "parentId": "da0466a2-0a7e-41af-9a11-b493652506d8",
+  "rootParentId": "da0466a2-0a7e-41af-9a11-b493652506d8",
+  "name": "play game - minecraft -yes",
+  "auto": true,
+  "contexts": [
+    "playgame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "playgame.playgame-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2c3ff254-4b98-4904-87bc-0d2fffa80d62",
+          "required": false,
+          "dataType": "@Game",
+          "name": "Game",
+          "value": "$Game",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "ok playing minecraft"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

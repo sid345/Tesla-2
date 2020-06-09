@@ -1,0 +1,35 @@
+{
+  "id": "8d9646ae-3c1c-4d59-9248-48b8467a1f88",
+  "name": "Random Fun",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "ok spinning the wheel. the wheel came to 89 number. that means a joker farted. sounds fun isnt it.",
+            "ok another fun will blow your mind all the kings from the mughal dynasty had a strong army in the first but weakened in the last and gave the rights for the Britiish  Rule in india.",
+            "spinning the wheel................................................the wheel landed on number 6, the interesting fact is: deserts are extremely hot in the day and cool in the night."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

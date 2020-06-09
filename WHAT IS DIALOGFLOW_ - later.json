@@ -1,0 +1,36 @@
+{
+  "id": "170485d0-1baa-40c6-94c7-9df57ade8a60",
+  "parentId": "da08cb6f-aa50-40d5-8379-ca4d643bd35f",
+  "rootParentId": "da08cb6f-aa50-40d5-8379-ca4d643bd35f",
+  "name": "WHAT IS DIALOGFLOW? - later",
+  "auto": true,
+  "contexts": [
+    "WHATISDIALOGFLOW-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WHATISDIALOGFLOW.WHATISDIALOGFLOW-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "ok then fine lets do later."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

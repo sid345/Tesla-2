@@ -1,0 +1,60 @@
+[
+  {
+    "id": "c70c584a-30d8-429a-943b-1e5bf5f2fd1e",
+    "data": [
+      {
+        "text": "set a goal everyday?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47568998-0431-4798-8a0d-e71e8c5b72e1",
+    "data": [
+      {
+        "text": "your goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "703144de-9231-4c29-974b-446379c9aa36",
+    "data": [
+      {
+        "text": "tell me your goal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0fd5f01-17f4-418e-8e0b-00dc8bc955af",
+    "data": [
+      {
+        "text": "whats your goal ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

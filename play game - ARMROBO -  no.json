@@ -1,0 +1,52 @@
+{
+  "id": "50427f0f-eb97-418f-a89d-9dc29d513f0e",
+  "parentId": "da0466a2-0a7e-41af-9a11-b493652506d8",
+  "rootParentId": "da0466a2-0a7e-41af-9a11-b493652506d8",
+  "name": "play game - ARMROBO -  no",
+  "auto": true,
+  "contexts": [
+    "playgame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "playgame.playgame-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb773277-6ef5-48c4-8acc-902fd26b9d1b",
+          "required": false,
+          "dataType": "@Game",
+          "name": "Game",
+          "value": "$Game",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "ok cancelling ARMROBO",
+            "ok play next time when you are free."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
